@@ -1,0 +1,2 @@
+dependency==ওপরে নির্ভরশীলতা
+Consecutive==পরপর
